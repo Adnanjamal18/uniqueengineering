@@ -1,0 +1,75 @@
+.page-banner {
+  background-color: var(--secondary);
+  color: white;
+  padding: 5rem 0;
+  text-align: center;
+}
+
+.page-banner h1 {
+  font-size: 3rem;
+  color: white;
+  margin-bottom: 0.5rem;
+}
+
+.ind-content {
+  padding: 5rem 1.5rem;
+}
+
+.industries-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+}
+
+.industry-card {
+  display: flex;
+  background-color: var(--surface);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+}
+
+.industry-card:nth-child(even) {
+  flex-direction: row-reverse;
+}
+
+.ind-image-box {
+  flex: 1;
+  min-height: 350px;
+}
+
+.ind-image-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.ind-text-box {
+  flex: 1;
+  padding: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.ind-text-box h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+
+.ind-text-box p {
+  font-size: 1.1rem;
+  color: var(--text-light);
+  line-height: 1.7;
+}
+
+@media (max-width: 900px) {
+  .industry-card, .industry-card:nth-child(even) {
+    flex-direction: column;
+  }
+  
+  .ind-text-box {
+    padding: 2.5rem;
+  }
+}
