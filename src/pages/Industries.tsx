@@ -1,4 +1,4 @@
-import React from 'react';
+
 import autoParts from '../assets/industries/auto_parts.png';
 import railwayParts from '../assets/industries/railway_parts.png';
 import handicrafts from '../assets/industries/handicrafts.png';

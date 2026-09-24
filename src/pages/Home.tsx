@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Link } from 'react-router-dom';
 import './Home.css';
 import bgImage from '../assets/industries/auto_parts.png'; // High quality industrial image for hero
