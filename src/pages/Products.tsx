@@ -14,14 +14,14 @@ import img9 from '../assets/products/9.jpeg';
 import img10 from '../assets/products/10.jpeg';
 
 const productsData = [
-  { img: img1, title: 'Precision CNC Component', desc: 'Custom CNC machined metal component built with high tolerance for critical assemblies.', category: 'Automobile Parts' },
-  { img: img2, title: 'Heavy Duty Gear Assembly', desc: 'Durable gear assembly designed to withstand high torque and stress in automotive systems.', category: 'Automobile Parts' },
-  { img: img3, title: 'Kharad Machined Shaft', desc: 'Precision turned metal shaft crafted on advanced Lathe (Kharad) machinery.', category: 'Automobile Parts' },
-  { img: img4, title: 'Railway Bracket', desc: 'Thick gauge steel bracket engineered specifically for the intense vibrations of the railway sector.', category: 'Railway Parts' },
-  { img: img5, title: 'Heavy Suspension Part', desc: 'Robust suspension linkage component built for heavy-duty applications and longevity.', category: 'Railway Parts' },
-  { img: img6, title: 'Decorative Brass Fitting', desc: 'Aesthetically pleasing and intricate metal fitting combining industrial strength with art.', category: 'Handicraft Products' },
-  { img: img7, title: 'Button Mold Insert', desc: 'Micro-precision machined insert mold used in industrial polyester button manufacturing.', category: 'Polyester Button Machine Parts' },
-  { img: img8, title: 'Panel Fastener Set', desc: 'High-conductivity, secure fastening solutions tailored for large electric panels.', category: 'Electric Panel Parts' },
+  { img: img1, title: 'Smap Suival (Snap Swivel)', desc: 'Heavy-duty forged snap hook with 360-degree swivel eye, designed for secure attachment, rigging, and mechanical applications.', category: 'Automobile Parts' },
+  { img: img2, title: 'Injector Puller', desc: 'Specialized heavy-duty diesel injector puller kit with adapters and bolts for damage-free extraction of stuck common rail injectors.', category: 'Pullers (Studd/Injector)' },
+  { img: img3, title: 'Swift Delfi Injector Puller', desc: 'Precision engineered injector puller specifically designed for Delphi fuel injectors in Maruti Suzuki Swift and compatible diesel engines.', category: 'Pullers (Studd/Injector)' },
+  { img: img4, title: 'Injector Puller', desc: 'Heavy-duty twin column injector removal tool engineered for high-torque extraction of tightly seized diesel injectors.', category: 'Pullers (Studd/Injector)' },
+  { img: img5, title: 'Shocker Spring Adjuster', desc: 'Durable cast and machined shock absorber adjuster cam, built for smooth spring preload adjustment on automotive suspension systems.', category: 'Automobile Parts' },
+  { img: img6, title: 'Swift Injector Puller', desc: 'Dedicated diesel injector puller tool designed for swift extraction of stuck injectors in Swift and multijet common rail engines.', category: 'Pullers (Studd/Injector)' },
+  { img: img7, title: 'CRDI Zigg Plate', desc: 'Multi-vehicle CRDI injector clamping jig plate with precise slots for Bosch, Delphi, Denso, Laura, Kobelco, Prima, and Leyland injectors.', category: 'Pullers (Studd/Injector)' },
+  { img: img8, title: 'Zigg Plate Injector Puller', desc: 'Complete CRDI injector jig plate puller assembly equipped with heavy-duty guide pillars and studs for secure injector servicing.', category: 'Pullers (Studd/Injector)' },
   { img: img9, title: 'Universal Coupling Joint - Standard', desc: 'Versatile coupling joint ensuring seamless power transmission across misaligned shafts.', category: 'Universal Coupling Joints' },
   { img: img10, title: 'Universal Coupling Joint - Heavy Duty', desc: 'Reinforced coupling joint for industrial heavy-machinery and high-load torque applications.', category: 'Universal Coupling Joints' }
 ];
